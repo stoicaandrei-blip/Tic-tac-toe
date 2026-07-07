@@ -32,6 +32,8 @@ How to play:
   Credits:
 
 The art for the game was made by myself using piskel and the music is from OpenGameArt - Chill lofi inspired [loop edit] by qubodup
+ 
+Note: All of the source code is inside game.zip in ticTacToe.cpp
 
 Hope you enjoy playing! :]
 
