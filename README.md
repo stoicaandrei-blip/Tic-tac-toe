@@ -21,7 +21,9 @@ What's needed to run the code:
 
 -If the program doesn't create a file to store statistics for some reason, you can create a text file named stats
 
-Video demo: https://www.youtube.com/watch?v=BRtqmHa4y1w
+Note: if when trying to run the program you get a message saying "missing vcruntime40.dll" or "missing msvcp140.dll" you need to instal microsoft visual c++ redistributable which you can download from here: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170. this needs to be installed by you and i can't provide it. Install for the latest version of vs studio and for x86. Thank's!
+
+Video demo: [https://www.youtube.com/watch?v=BRtqmHa4y1w](https://youtu.be/BML5gJ14dhs)
 
 How to play:
   Press the play button and a board will appear. You are first. Press a square and an x will appear then, after some time, a o will appear and so on. After you win, lose or get a tie, a   sign will appear saying you lost, won or tied, then you will, be sent to the menu. The stats button shows you how many wins, losses and ties you have(there is a button to reset the stats). The exit button just exits the game.
