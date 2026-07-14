@@ -5,6 +5,8 @@ A remake of the classic tic tac toe game, but with a chill vibe, perfect for whe
 
 How to enter the game: Simply download the zip from the link above, make sure you have all the assets in a single folder and just click on the executable, it's that easy!
 
+**Have feedback?** You can submit your feedback here: https://docs.google.com/forms/d/e/1FAIpQLSd_PYRWfn150R5Bi3gj90nlJ-TgKZuzrlvwGKAd-GypAZUxvg/viewform?usp=dialog. Thank you!
+
 Features:
 
 -A simple user interface that can be understood by everyone
